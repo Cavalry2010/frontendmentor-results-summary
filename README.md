@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Results Summary Component](https://results-summary.alejandro.netlify.app)
+- Live Site URL: [Results Summary Component](https://results-summary-alejandro.netlify.app)
 
 ## My process
 
