@@ -1,0 +1,54 @@
+@media (max-width: 24em) {
+  html {
+    font-size: 56.25%;
+  }
+
+  .summary-box {
+    grid-template-columns: 1fr;
+    box-shadow: none;
+  }
+
+  .score-box {
+    border-radius: 0 0 30px 30px;
+  }
+
+  .heading-primary {
+    margin-top: 2.4rem;
+    font-size: 2rem;
+  }
+
+  .score-results {
+    width: 16rem;
+    height: 16rem;
+  }
+
+  .score {
+    line-height: 1.4;
+  }
+
+  .qualification {
+    font-size: 2.6rem;
+    margin-bottom: -1.2rem;
+  }
+
+  .stats-summary {
+    padding-top: 2.4rem;
+  }
+
+  .heading-secondary {
+    font-size: 2rem;
+  }
+
+  .stat {
+    padding: 1.8rem 1.8rem;
+  }
+
+  .stat-name {
+    margin-left: 1.2rem;
+  }
+
+  .btn {
+    font-size: 2rem;
+    padding: 1.8rem;
+  }
+}
